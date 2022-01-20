@@ -1,1 +1,1 @@
-# assignmentpython
+# Django project 
